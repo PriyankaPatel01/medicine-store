@@ -1,0 +1,15 @@
+.prod
+{
+    width: 1000px;
+}
+
+.row1
+{
+    display: flex;
+}
+
+.pages
+{
+   float: right;
+}
+
